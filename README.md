@@ -15,5 +15,6 @@ The design contains an **STM32F103C8T6 microcontroller** and an **AMS1117-3.3 li
 The pinout was created by Philip using STM32CubeIDE. The only part of the tutorial I did not follow was the placement and routing. I completed those myself so that I could learn from my mistakes.
 
 ## Schematic
-
+[Schematic](stm32_pcb/schematic.png)
 ## PCB Layout
+[Layout](stm32_pcb/layout.png)
